@@ -16,4 +16,7 @@ The database used is consists of 11 tables.
 - Playlist_track
 - Track
 
+## Analysis
+The pdf document contains the analysis queries and its results.
+
   
